@@ -1,0 +1,141 @@
+/* SHOULD CONTAIN COLOR, FONTS, AND STYLE FOR HEADER AND FOOTER */
+@import url('https://fonts.googleapis.com/css?family=VT323|Work+Sans');
+/* font-family: 'VT323', monospace; */
+/* font-family: 'Work Sans', sans-serif; */
+
+:root {
+	--ascBlue: #51C1E9; /*Picton blue */
+	--primaryLight: #DAE0F2;
+	--primaryDark: #1E1B18;
+	--accent: #D8315B;
+	--alternate: #8AC926;
+   
+   /* ASC blue will be for large/main titles, azurish white will be the normal font color, cherry will be for keywords,
+   eerie black will be the general background color, I'm thinking yellow green will be for links, as those sort of colors
+   really pop with a dark background like eerie black */
+
+	--ascFont: "Helvetica Neue";
+	--headFont: 'VT323', monospace;
+	--bodyFont: 'Work Sans', sans-serif;
+}
+   
+   
+@font-face {
+    font-family: "Helvetica Neue";
+    src: url(./../fonts/HelveticaNeue.ttf);
+    }
+
+
+@font-face {
+	font-family: 'Conv_Slabo27px-Regular';
+	src: url('../fonts/Slabo27px-Regular.eot');
+	src: url('../fonts/Slabo27px-Regular.woff') format('woff'), url('../fonts/Slabo27px-Regular.ttf') format('truetype'), url('../fonts/Slabo27px-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_Ubuntu-Regular';
+	src: url('../fonts/Ubuntu-Regular.eot');
+	src: url('../fonts/Ubuntu-Regular.woff') format('woff'), url('../fonts/Ubuntu-Regular.ttf') format('truetype'), url('../fonts/Ubuntu-Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+h1,h2,h3,h4,p,body{
+	margin:0;
+}
+
+body{
+	background-color: var(--primaryDark);
+}
+
+nav{
+	background-color: var(--ascBlue);
+}
+
+nav ul a{
+	color:var(--primaryDark);
+	font-size:1.6em;
+	font-family: var(--headFont);
+}
+ 
+nav::after{
+	content:"";
+	display:block;
+	height:10px;
+	background: linear-gradient(var(--ascBlue),var(--primaryDark));
+}
+
+.title-container{
+	margin-bottom: 20px;
+	color:var(--ascBlue);
+	text-align: center;
+}
+.mainTitle{
+	color:var(--ascBlue);
+	font-size: 40px;
+}
+
+.mainTitle a{
+	color:inherit;
+	transition: color 350ms ease-out;
+	text-decoration: underline;
+}
+
+.mainTitle a:hover{
+	color:var(--accent);
+	text-decoration: none;
+}
+
+.mainTheme{
+	font-size: 30px;
+}
+
+footer{
+	color:var(--primaryLight);
+	background-color: var(--ascBlue);
+	font-family: var(--ascFont);
+	text-align: center;
+	font-size: 1.5em;
+	height:180px;
+	margin-top: 25px;
+	display:flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+footer::before{
+	content:"";
+	display:block;
+	height:10px;
+	width:100%;
+	justify-content: flex-start;
+	background: linear-gradient(var(--primaryDark),var(--ascBlue));
+}
+
+.social{
+	display: flex;
+	width: 55%;
+	max-width: 610px;
+    justify-content: space-around;
+	align-items: flex-end;
+	flex:1;
+}
+
+.social-svg{
+	width: 50px;
+	height: 50px;
+	fill:var(--primaryLight);
+	transition: fill 500ms ease-out;
+}
+.social-svg:hover, .social-svg:focus{
+	fill:var(--accent);
+}
+
+#copyright{
+	display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
