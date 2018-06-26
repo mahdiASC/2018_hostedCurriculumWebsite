@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Week 5 on my new hugo site</title>
-    <link>https://ascsi.netlify.com/week5/</link>
+    <link>./week5/</link>
     <description>Recent content in Week 5 on my new hugo site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://ascsi.netlify.com/week5/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="./week5/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Day 0</title>
-      <link>https://ascsi.netlify.com/week5/day0/</link>
+      <link>./week5/day0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ascsi.netlify.com/week5/day0/</guid>
+      <guid>./week5/day0/</guid>
       <description>&lt;p&gt;Just one thing to do&amp;hellip;work on your demo day project!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Day 1</title>
-      <link>https://ascsi.netlify.com/week5/day1/</link>
+      <link>./week5/day1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ascsi.netlify.com/week5/day1/</guid>
+      <guid>./week5/day1/</guid>
       <description>&lt;p&gt;Just one thing to do&amp;hellip;work on your demo day project!&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -32,10 +32,10 @@
     
     <item>
       <title>Day 2</title>
-      <link>https://ascsi.netlify.com/week5/day2/</link>
+      <link>./week5/day2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ascsi.netlify.com/week5/day2/</guid>
+      <guid>./week5/day2/</guid>
       <description>&lt;p&gt;Just one thing to do&amp;hellip;work on your demo day project!&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -43,10 +43,10 @@
     
     <item>
       <title>Day 3</title>
-      <link>https://ascsi.netlify.com/week5/day3/</link>
+      <link>./week5/day3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ascsi.netlify.com/week5/day3/</guid>
+      <guid>./week5/day3/</guid>
       <description>&lt;p&gt;Just one thing to do&amp;hellip;work on your demo day project!&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -54,10 +54,10 @@
     
     <item>
       <title>Day 4</title>
-      <link>https://ascsi.netlify.com/week5/day4/</link>
+      <link>./week5/day4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ascsi.netlify.com/week5/day4/</guid>
+      <guid>./week5/day4/</guid>
       <description> WIP </description>
     </item>
     

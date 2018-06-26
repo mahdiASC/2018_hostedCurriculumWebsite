@@ -3,161 +3,161 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ascsi.netlify.com/</loc>
+    <loc>./</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/categories/</loc>
+    <loc>./categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week0/day0/</loc>
+    <loc>./week0/day0/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week1/day0/</loc>
+    <loc>./week1/day0/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week2/day0/</loc>
+    <loc>./week2/day0/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week3/day0/</loc>
+    <loc>./week3/day0/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week4/day0/</loc>
+    <loc>./week4/day0/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week5/day0/</loc>
+    <loc>./week5/day0/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week0/day1/</loc>
+    <loc>./week0/day1/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week1/day1/</loc>
+    <loc>./week1/day1/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week2/day1/</loc>
+    <loc>./week2/day1/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week3/day1/</loc>
+    <loc>./week3/day1/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week4/day1/</loc>
+    <loc>./week4/day1/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week5/day1/</loc>
+    <loc>./week5/day1/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week0/day2/</loc>
+    <loc>./week0/day2/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week1/day2/</loc>
+    <loc>./week1/day2/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week2/day2/</loc>
+    <loc>./week2/day2/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week3/day2/</loc>
+    <loc>./week3/day2/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week4/day2/</loc>
+    <loc>./week4/day2/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week5/day2/</loc>
+    <loc>./week5/day2/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week0/day3/</loc>
+    <loc>./week0/day3/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week1/day3/</loc>
+    <loc>./week1/day3/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week2/day3/</loc>
+    <loc>./week2/day3/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week3/day3/</loc>
+    <loc>./week3/day3/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week4/day3/</loc>
+    <loc>./week4/day3/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week5/day3/</loc>
+    <loc>./week5/day3/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week0/day4/</loc>
+    <loc>./week0/day4/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week1/day4/</loc>
+    <loc>./week1/day4/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week2/day4/</loc>
+    <loc>./week2/day4/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week3/day4/</loc>
+    <loc>./week3/day4/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week4/day4/</loc>
+    <loc>./week4/day4/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week5/day4/</loc>
+    <loc>./week5/day4/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/tags/</loc>
+    <loc>./tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week0/</loc>
+    <loc>./week0/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week1/</loc>
+    <loc>./week1/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week2/</loc>
+    <loc>./week2/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week3/</loc>
+    <loc>./week3/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week4/</loc>
+    <loc>./week4/</loc>
   </url>
   
   <url>
-    <loc>https://ascsi.netlify.com/week5/</loc>
+    <loc>./week5/</loc>
   </url>
   
 </urlset>

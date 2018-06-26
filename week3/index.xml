@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Week 3 on my new hugo site</title>
-    <link>https://ascsi.netlify.com/week3/</link>
+    <link>./week3/</link>
     <description>Recent content in Week 3 on my new hugo site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://ascsi.netlify.com/week3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="./week3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Day 0</title>
-      <link>https://ascsi.netlify.com/week3/day0/</link>
+      <link>./week3/day0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ascsi.netlify.com/week3/day0/</guid>
+      <guid>./week3/day0/</guid>
       <description>&lt;p&gt;Week 4! This week is focusing on using javascript along with web development to further your web development skills. Today you&amp;rsquo;ll be ending the day with some outside activities,  after learning about DOM.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Day 1</title>
-      <link>https://ascsi.netlify.com/week3/day1/</link>
+      <link>./week3/day1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ascsi.netlify.com/week3/day1/</guid>
+      <guid>./week3/day1/</guid>
       <description>&lt;p&gt;More DOM! It&amp;rsquo;s like the new boxes eh? Not only that but it&amp;rsquo;s Tuesday, so you&amp;rsquo;ll end the day with your fourth session of mentorship.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Day 2</title>
-      <link>https://ascsi.netlify.com/week3/day2/</link>
+      <link>./week3/day2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ascsi.netlify.com/week3/day2/</guid>
+      <guid>./week3/day2/</guid>
       <description>&lt;p&gt;Objects, Mock Interviews, and Site Visits. Oh my!
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Day 3</title>
-      <link>https://ascsi.netlify.com/week3/day3/</link>
+      <link>./week3/day3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ascsi.netlify.com/week3/day3/</guid>
+      <guid>./week3/day3/</guid>
       <description>&lt;p&gt;One aspect of coding that hasn&amp;rsquo;t been touched on yet is data. A crucial part of many applications and programs involves the transmission of data. You&amp;rsquo;ll be learning about and using a common data type today called JSON, and ending your day with a guest speaker!
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Day 4</title>
-      <link>https://ascsi.netlify.com/week3/day4/</link>
+      <link>./week3/day4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ascsi.netlify.com/week3/day4/</guid>
+      <guid>./week3/day4/</guid>
       <description>&lt;p&gt;You&amp;rsquo;ll be ending your week with a fresh Battleroom :bomb: and a prior project. And of course an end of week survey.
 &lt;/p&gt;</description>
     </item>
